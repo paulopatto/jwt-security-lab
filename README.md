@@ -81,3 +81,7 @@ jwt-lab/
 ## Licença
 
 MIT
+
+## Créditos
+
+Inspirado no post do linkedin de [@Lucas Albuquerque](https://www.linkedin.com/in/lucasalbuquerquecode/) [sobre falhas de segurança em JWT em middlewares de produção](https://www.linkedin.com/posts/lucasalbuquerquecode_a-maioria-dos-middlewares-de-jwt-que-vejo-share-7473321266813440000-CSrj)
